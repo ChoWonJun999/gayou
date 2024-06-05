@@ -4,3 +4,5 @@
 test
 
 simple of best
+
+깃을 배워봅시다
